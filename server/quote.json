@@ -1,0 +1,470 @@
+{
+  "qms": {
+    "1-5": {
+      "initial": 800,
+      "surveillance": 570,
+      "renewal": 750
+    },
+    "6-10": {
+      "initial": 810,
+      "surveillance": 570,
+      "renewal": 760
+    },
+    "11-15": {
+      "initial": 820,
+      "surveillance": 570,
+      "renewal": 770
+    },
+    "16-25": {
+      "initial": 830,
+      "surveillance": 570,
+      "renewal": 780
+    },
+    "26-45": {
+      "initial": 830,
+      "surveillance": 570,
+      "renewal": 780
+    },
+    "46-65": {
+      "initial": 1500,
+      "surveillance": 600,
+      "renewal": 1050
+    },
+    "66-850": {
+      "initial": 1800,
+      "surveillance": 600,
+      "renewal": 1200
+    },
+    "86-125": {
+      "initial": 2100,
+      "surveillance": 750,
+      "renewal": 1500
+    },
+    "126-175": {
+      "initial": 2400,
+      "surveillance": 900,
+      "renewal": 1650
+    },
+    "176-275": {
+      "initial": 2700,
+      "surveillance": 900,
+      "renewal": 1800
+    },
+    "276-425": {
+      "initial": 3000,
+      "surveillance": 1050,
+      "renewal": 2100
+    },
+    "426-625": {
+      "initial": 3300,
+      "surveillance": 1200,
+      "renewal": 2250
+    },
+    "626-875": {
+      "initial": 3600,
+      "surveillance": 1200,
+      "renewal": 2400
+    },
+    "876-1175": {
+      "initial": 3900,
+      "surveillance": 1380,
+      "renewal": 2700
+    },
+    "1176-1550": {
+      "initial": 4200,
+      "surveillance": 1500,
+      "renewal": 2850
+    },
+    "1551-2025": {
+      "initial": 4500,
+      "surveillance": 1500,
+      "renewal": 3000
+    },
+    "2026-2675": {
+      "initial": 4800,
+      "surveillance": 1650,
+      "renewal": 3300
+    },
+    "2676-3450": {
+      "initial": 5100,
+      "surveillance": 1800,
+      "renewal": 3450
+    },
+    "3451-4350": {
+      "initial": 5400,
+      "surveillance": 1800,
+      "renewal": 3600
+    },
+    "4351-5450": {
+      "initial": 5700,
+      "surveillance": 1950,
+      "renewal": 3900
+    },
+    "5451-6800": {
+      "initial": 6000,
+      "surveillance": 2100,
+      "renewal": 4050
+    },
+    "6801-85000": {
+      "initial": 6300,
+      "surveillance": 2100,
+      "renewal": 4200
+    },
+    "85001-10700": {
+      "initial": 6600,
+      "surveillance": 2250,
+      "renewal": 4500
+    }
+  },
+  "ems": {
+    "1-5": {
+      "initial": 900,
+      "surveillance": 570,
+      "renewal": 800
+    },
+    "6-10": {
+      "initial": 950,
+      "surveillance": 570,
+      "renewal": 810
+    },
+    "11-15": {
+      "initial": 950,
+      "surveillance": 570,
+      "renewal": 820
+    },
+    "16-25": {
+      "initial": 980,
+      "surveillance": 570,
+      "renewal": 830
+    },
+    "26-45": {
+      "initial": 1650,
+      "surveillance": 570,
+      "renewal": 840
+    },
+    "46-65": {
+      "initial": 1800,
+      "surveillance": 600,
+      "renewal": 1150
+    },
+    "66-850": {
+      "initial": 2100,
+      "surveillance": 600,
+      "renewal": 1200
+    },
+    "86-125": {
+      "initial": 2400,
+      "surveillance": 750,
+      "renewal": 1500
+    },
+    "126-175": {
+      "initial": 2700,
+      "surveillance": 900,
+      "renewal": 1650
+    },
+    "176-275": {
+      "initial": 3000,
+      "surveillance": 900,
+      "renewal": 1800
+    },
+    "276-425": {
+      "initial": 3300,
+      "surveillance": 1050,
+      "renewal": 2100
+    },
+    "426-625": {
+      "initial": 3600,
+      "surveillance": 1200,
+      "renewal": 2250
+    },
+    "626-875": {
+      "initial": 3900,
+      "surveillance": 1200,
+      "renewal": 2400
+    },
+    "876-1175": {
+      "initial": 4500,
+      "surveillance": 1380,
+      "renewal": 2700
+    },
+    "1176-1550": {
+      "initial": 4800,
+      "surveillance": 1500,
+      "renewal": 2850
+    },
+    "1551-2025": {
+      "initial": 5100,
+      "surveillance": 1500,
+      "renewal": 3000
+    },
+    "2026-2675": {
+      "initial": 5400,
+      "surveillance": 1650,
+      "renewal": 3300
+    },
+    "2676-3450": {
+      "initial": 5700,
+      "surveillance": 1800,
+      "renewal": 3450
+    },
+    "3451-4350": {
+      "initial": 6000,
+      "surveillance": 1800,
+      "renewal": 3600
+    },
+    "4351-5450": {
+      "initial": 6300,
+      "surveillance": 1950,
+      "renewal": 3900
+    },
+    "5451-6800": {
+      "initial": 6900,
+      "surveillance": 2100,
+      "renewal": 4050
+    },
+    "6801-85000": {
+      "initial": 7500,
+      "surveillance": 2100,
+      "renewal": 4200
+    },
+    "85001-10700": {
+      "initial": 8100,
+      "surveillance": 2250,
+      "renewal": 4500
+    }
+  },
+  "ohsms": {
+    "1-5": {
+      "initial": 1200,
+      "surveillance": 570,
+      "renewal": 800
+    },
+    "6-10": {
+      "initial": 1210,
+      "surveillance": 570,
+      "renewal": 810
+    },
+    "11-15": {
+      "initial": 1220,
+      "surveillance": 570,
+      "renewal": 820
+    },
+    "16-25": {
+      "initial": 1230,
+      "surveillance": 570,
+      "renewal": 830
+    },
+    "26-45": {
+      "initial": 1650,
+      "surveillance": 570,
+      "renewal": 840
+    },
+    "46-65": {
+      "initial": 1800,
+      "surveillance": 600,
+      "renewal": 1150
+    },
+    "66-850": {
+      "initial": 2100,
+      "surveillance": 600,
+      "renewal": 1200
+    },
+    "86-125": {
+      "initial": 2400,
+      "surveillance": 750,
+      "renewal": 1500
+    },
+    "126-175": {
+      "initial": 2700,
+      "surveillance": 900,
+      "renewal": 1650
+    },
+    "176-275": {
+      "initial": 3000,
+      "surveillance": 900,
+      "renewal": 1800
+    },
+    "276-425": {
+      "initial": 3300,
+      "surveillance": 1050,
+      "renewal": 2100
+    },
+    "426-625": {
+      "initial": 3600,
+      "surveillance": 1200,
+      "renewal": 2250
+    },
+    "626-875": {
+      "initial": 3900,
+      "surveillance": 1200,
+      "renewal": 2400
+    },
+    "876-1175": {
+      "initial": 4500,
+      "surveillance": 1380,
+      "renewal": 2700
+    },
+    "1176-1550": {
+      "initial": 4800,
+      "surveillance": 1500,
+      "renewal": 2850
+    },
+    "1551-2025": {
+      "initial": 5100,
+      "surveillance": 1500,
+      "renewal": 3000
+    },
+    "2026-2675": {
+      "initial": 5400,
+      "surveillance": 1650,
+      "renewal": 3300
+    },
+    "2676-3450": {
+      "initial": 5700,
+      "surveillance": 1800,
+      "renewal": 3450
+    },
+    "3451-4350": {
+      "initial": 6000,
+      "surveillance": 1800,
+      "renewal": 3600
+    },
+    "4351-5450": {
+      "initial": 6300,
+      "surveillance": 1950,
+      "renewal": 3900
+    },
+    "5451-6800": {
+      "initial": 6900,
+      "surveillance": 2100,
+      "renewal": 4050
+    },
+    "6801-85000": {
+      "initial": 7500,
+      "surveillance": 2100,
+      "renewal": 4200
+    },
+    "85001-10700": {
+      "initial": 8100,
+      "surveillance": 2250,
+      "renewal": 4500
+    }
+  },
+  "cms": {
+    "1-5": {
+      "initial": 900,
+      "surveillance": 570,
+      "renewal": 800
+    },
+    "6-10": {
+      "initial": 950,
+      "surveillance": 570,
+      "renewal": 810
+    },
+    "11-15": {
+      "initial": 950,
+      "surveillance": 570,
+      "renewal": 830
+    },
+    "16-25": {
+      "initial": 980,
+      "surveillance": 570,
+      "renewal": 840
+    },
+    "26-45": {
+      "initial": 1650,
+      "surveillance": 570,
+      "renewal": 840
+    },
+    "46-65": {
+      "initial": 1800,
+      "surveillance": 600,
+      "renewal": 1150
+    },
+    "66-850": {
+      "initial": 2100,
+      "surveillance": 600,
+      "renewal": 1200
+    },
+    "86-125": {
+      "initial": 2400,
+      "surveillance": 750,
+      "renewal": 1500
+    },
+    "126-175": {
+      "initial": 2700,
+      "surveillance": 900,
+      "renewal": 1650
+    },
+    "176-275": {
+      "initial": 3000,
+      "surveillance": 900,
+      "renewal": 1800
+    },
+    "276-425": {
+      "initial": 3300,
+      "surveillance": 1050,
+      "renewal": 2100
+    },
+    "426-625": {
+      "initial": 3600,
+      "surveillance": 1200,
+      "renewal": 2250
+    },
+    "626-875": {
+      "initial": 3900,
+      "surveillance": 1200,
+      "renewal": 2400
+    },
+    "876-1175": {
+      "initial": 4500,
+      "surveillance": 1380,
+      "renewal": 2700
+    },
+    "1176-1550": {
+      "initial": 4800,
+      "surveillance": 1500,
+      "renewal": 2850
+    },
+    "1551-2025": {
+      "initial": 5100,
+      "surveillance": 1500,
+      "renewal": 3000
+    },
+    "2026-2675": {
+      "initial": 5400,
+      "surveillance": 1650,
+      "renewal": 3300
+    },
+    "2676-3450": {
+      "initial": 5700,
+      "surveillance": 1800,
+      "renewal": 3450
+    },
+    "3451-4350": {
+      "initial": 6000,
+      "surveillance": 1800,
+      "renewal": 3600
+    },
+    "4351-5450": {
+      "initial": 6300,
+      "surveillance": 1950,
+      "renewal": 3900
+    },
+    "5451-6800": {
+      "initial": 6900,
+      "surveillance": 2100,
+      "renewal": 4050
+    },
+    "6801-85000": {
+      "initial": 7500,
+      "surveillance": 2100,
+      "renewal": 4200
+    },
+    "85001-10700": {
+      "initial": 8100,
+      "surveillance": 2250,
+      "renewal": 4500
+    }
+  }
+}
